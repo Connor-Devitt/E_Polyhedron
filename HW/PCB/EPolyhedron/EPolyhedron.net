@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "E:\\User\\Connor\\Documents\\EE Projects\\E_Polyhedron\\HW\\PCB\\EPolyhedron\\EPolyhedron.sch")
-    (date "3/27/2019 7:42:38 PM")
+    (date "3/30/2019 8:05:52 PM")
     (tool "Eeschema (5.0.2)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
