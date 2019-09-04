@@ -277,15 +277,10 @@
       (net 20 /6V_Batt))
     (pad 2 thru_hole circle (at 20.49 0 90) (size 3 3) (drill 1.5) (layers *.Cu *.Mask)
       (net 18 GND))
-    (model ${KISYS3DMOD}/Battery.3dshapes/BatteryHolder_Keystone_106_1x20mm.wrl
-      (at (xyz 0 0 0))
+    (model "E:/User/Connor/Documents/EE Projects/E_Polyhedron/HW/3D/keystone-PN1026.STEP"
+      (offset (xyz 15.25 0 2.5))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-    (model ${KISYS3DMOD}/Battery.3dshapes/keystone-PN106.STEP
-      (offset (xyz 15.23999977111816 0 2.514599962234497))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 90 180 -90))
+      (rotate (xyz -90 0 90))
     )
   )
 
